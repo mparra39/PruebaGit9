@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8363CD0A1C7797570094EA1E /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
 		8397E8731C683EF600A0EF6A /* Juego de memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de memoria.playground"; sourceTree = "<group>"; };
 		83EB46DE1C61108D006AD580 /* PruebaGit10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PruebaGit10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83EB46E11C61108D006AD580 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 		83EB46D51C61108D006AD580 = {
 			isa = PBXGroup;
 			children = (
+				8363CD0A1C7797570094EA1E /* Velocimetro.playground */,
 				8397E8731C683EF600A0EF6A /* Juego de memoria.playground */,
 				83EB46E01C61108D006AD580 /* PruebaGit10 */,
 				83EB46F51C61108E006AD580 /* PruebaGit10Tests */,
